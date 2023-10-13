@@ -1,3 +1,3 @@
 # Table of contents
 
-* [vib new title](README.md)
+* [vib newest title](README.md)
