@@ -1,1 +1,3 @@
-# vib Making a new commit
+# vib new title
+
+vib new body
