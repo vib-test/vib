@@ -20,6 +20,7 @@ paths:
               schema:
                $ref: "#/components/schemas/star"
     post:
+      x-internal: true
       operationId: postStars
       summary: Register a star
       description: This is an internal API and should not display in our external docs.
