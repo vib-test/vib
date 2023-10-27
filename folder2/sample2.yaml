@@ -28,6 +28,18 @@ paths:
           application/json:
             schema:
               $ref: "#/components/schemas/star"
+  /suns:
+    get:
+      operationId: getSuns
+      summary: Get list of suns
+      responses:
+        200:
+          description: OK
+          content:
+            application/json:
+              schema:
+               $ref: "#/components/schemas/star"
+    
 components:
   schemas:
     star:
