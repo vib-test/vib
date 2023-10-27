@@ -1,3 +1,5 @@
 file2 test
 
-{% swagger src="./sample.yaml" %} sample.yaml {% endswagger %}
+Use sample2
+
+{% swagger src="./sample2.yaml" %} sample2.yaml {% endswagger %}
