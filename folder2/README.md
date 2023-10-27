@@ -4,12 +4,20 @@ file2 test
 
 Use sample2
 
-{% swagger src="sample2.yaml" path="/stars" method="post" %}
+{% swagger src="sample2.yaml" path="/suns" method="get" %}
 [sample2.yaml](sample2.yaml)
 {% endswagger %}
 
 {% swagger method="get" path="" baseUrl="blahj" summary="blah" %}
 {% swagger-description %}
-
+Hello
 {% endswagger-description %}
+
+{% swagger-parameter in="path" name="id" type="String" required="true" %}
+id of the user
+{% endswagger-parameter %}
+
+{% swagger-response status="200: OK" description="Blah" %}
+
+{% endswagger-response %}
 {% endswagger %}
