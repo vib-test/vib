@@ -11,7 +11,7 @@ paths:
   /stars:
     get:
       operationId: getStars
-      summary: Get list of stars
+      summary: Get list of stars 2
       responses:
         200:
           description: OK
