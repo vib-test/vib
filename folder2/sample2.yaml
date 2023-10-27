@@ -10,6 +10,7 @@ servers:
 paths:
   /stars:
     get:
+      x-internal: true
       operationId: getStars
       summary: Get list of stars 2
       responses:
@@ -31,6 +32,7 @@ paths:
               $ref: "#/components/schemas/star"
   /suns:
     get:
+      x-internal: true
       operationId: getSuns
       summary: Get list of suns
       responses:
