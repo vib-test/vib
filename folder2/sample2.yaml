@@ -20,16 +20,6 @@ paths:
             application/json:
               schema:
                $ref: "#/components/schemas/star"
-    post:
-      x-internal: true
-      operationId: postStars
-      summary: Register a star 2
-      description: Blah Blah
-      requestBody:
-        content: 
-          application/json:
-            schema:
-              $ref: "#/components/schemas/star"
   /suns:
     get:
       x-internal: true
