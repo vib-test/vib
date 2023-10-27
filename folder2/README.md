@@ -1,3 +1,3 @@
 file2 test
 
-No swagger
+{% swagger src="./sample.yaml" %} sample.yaml {% endswagger %}
