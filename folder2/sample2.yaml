@@ -63,5 +63,5 @@ components:
           type: number
         mass:
           type: number
-        hasPlanets:
+        hasVib:
           type: boolean
