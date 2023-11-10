@@ -12,7 +12,7 @@ We use the API Connector to make **outgoing** connections to external applicatio
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-
+[Lorem Ipsum](lorem-ipsum.md)
 
 ## Want to jump right in?
 
