@@ -4,6 +4,8 @@ file2 test
 
 Use sample2
 
+Testing gitsync
+
 {% swagger src="sample2.yaml" path="/suns" method="get" %}
 [sample2.yaml](sample2.yaml)
 {% endswagger %}
