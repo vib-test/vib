@@ -1,3 +1,4 @@
 # Table of contents
 
 * [Page](README.md)
+* [Test](./path/test.md)
