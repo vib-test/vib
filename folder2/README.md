@@ -1,6 +1,6 @@
 # file2
 
-Open API spec file is sample2.yaml in this folder
+Open API spec file is sample2.yaml in the GitHub folder
 
 {% swagger src="sample2.yaml" path="/suns" method="get" %}
 [sample2.yaml](sample2.yaml)
