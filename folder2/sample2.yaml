@@ -65,3 +65,5 @@ components:
           type: number
         hasVib:
           type: boolean
+        hasTestVib:
+          type: boolean
