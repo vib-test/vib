@@ -1,10 +1,6 @@
 # file2
 
-file2 test
-
-Use sample2
-
-Testing gitsync
+Open API spec file is sample2.yaml in this folder
 
 {% swagger src="sample2.yaml" path="/suns" method="get" %}
 [sample2.yaml](sample2.yaml)
