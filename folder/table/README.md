@@ -20,4 +20,9 @@ Second Tab
 {% tab title="Third Tab" %}
 Third Tab
 {% endtab %}
+
+{% tab title="Fourth Tab" %}
+Fourth Tab
+{% endtab %}
+
 {% endtabs %}
