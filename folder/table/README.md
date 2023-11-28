@@ -1,12 +1,10 @@
 # Page
 
-| Col | Col | Col |
-| --- | --- | --- |
-| 2   | 2   | 20  |
-| 9   | 4   | 5   |
-| 1   | 7   | 8   |
-
-
+| Col | Col | Col | HTML Table |
+| --- | --- | --- | ---------- |
+| 2   | 2   | 20  | 1          |
+| 9   | 4   | 5   | 2          |
+| 1   | 7   | 8   | 3          |
 
 {% tabs %}
 {% tab title="First Tab" %}
@@ -24,5 +22,4 @@ Third Tab
 {% tab title="Fourth Tab" %}
 Fourth Tab
 {% endtab %}
-
 {% endtabs %}
