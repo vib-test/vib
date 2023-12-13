@@ -1,5 +1,5 @@
 # file2
-
+Testing PR flow
 Open API spec file is sample2.yaml in the GitHub folder
 
 {% swagger src="sample2.yaml" path="/suns" method="get" %}
