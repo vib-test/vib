@@ -6,6 +6,10 @@ Open API spec file is sample2.yaml in the GitHub folder
 [sample2.yaml](sample2.yaml)
 {% endswagger %}
 
+{% swagger src="sample2.yaml" path="/stars" method="post" %}
+[sample2.yaml](sample2.yaml)
+{% endswagger %}
+
 {% swagger method="get" path="" baseUrl="blahj" summary="blah" %}
 {% swagger-description %}
 Hello
