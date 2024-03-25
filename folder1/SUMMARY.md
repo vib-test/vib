@@ -3,4 +3,4 @@
 * [Page](README.md)
 * [Test](path/test.md)
 * [MoreTest](moretest.md)
-* [Vibby](html.md)
+* [Vibby 2](html.md)
