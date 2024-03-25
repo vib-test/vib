@@ -30,4 +30,6 @@ Hi Shuba
 [moretest.md](moretest.md)
 {% endcontent-ref %}
 
+{% content-ref url="path/test.md" %} my-link {% endcontent-ref %}
+
 [https://app.gitbook.com/o/VIHHSvOsHTHfcuksLxBw/s/vSSxwxzxrCdhpsBORSWN/moretest](moretest.md)
