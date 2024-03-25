@@ -25,3 +25,9 @@ Edit button doesn't hang
 
 
 Hi Shuba
+
+{% content-ref url="moretest.md" %}
+[moretest.md](moretest.md)
+{% endcontent-ref %}
+
+[https://app.gitbook.com/o/VIHHSvOsHTHfcuksLxBw/s/vSSxwxzxrCdhpsBORSWN/moretest](moretest.md)
