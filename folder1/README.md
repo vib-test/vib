@@ -22,6 +22,8 @@ Edit button doesn't hang
 
 Hi [Shuba](moretest.md)
 
+[From GH](test.md)
+
 {% content-ref url="moretest.md" %}
 [moretest.md](moretest.md)
 {% endcontent-ref %}
