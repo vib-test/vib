@@ -20,7 +20,7 @@ Vib Vib Vib
 
 Edit button doesn't hang
 
-Hi [Shuba](./)
+Hi [Shuba](moretest.md)
 
 {% content-ref url="moretest.md" %}
 [moretest.md](moretest.md)
