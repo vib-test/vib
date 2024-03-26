@@ -24,6 +24,10 @@ Hi [Shuba](moretest.md)
 
 [From GH](path/test.md)
 
+#### Resources
+* [Control Plane Overview](./path/test.md)
+
+
 {% content-ref url="moretest.md" %}
 [moretest.md](moretest.md)
 {% endcontent-ref %}
